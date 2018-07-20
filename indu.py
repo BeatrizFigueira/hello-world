@@ -1,0 +1,1 @@
+print("Isto funcionou! e nao foi graças ao indu")
